@@ -1,7 +1,7 @@
 ### olá! bem vindo ao meu perfil ✌️
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rian-calile-874733248)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/rian_calile/)</br>
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rian_calile?igshid=ZDdkNTZiNTM=)</br>
 ![BossDark GitHub stats](https://github-readme-stats.vercel.app/api?username=BossDark&show_icons=true&theme=tokyonight)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BossDark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"></br>
