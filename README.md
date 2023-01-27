@@ -12,6 +12,6 @@
  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div></br>
 
-
+![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 apaixonado por tecnologia, buscando novos projetos e realizando projetos proprios!
